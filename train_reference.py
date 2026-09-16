@@ -1,5 +1,3 @@
-"""Train the contextual seven-day comment reference described in the paper."""
-
 from __future__ import annotations
 
 import argparse
