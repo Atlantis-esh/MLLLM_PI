@@ -1,5 +1,3 @@
-"""Construct individualized disappointment gaps and user trajectories."""
-
 from __future__ import annotations
 
 import argparse
