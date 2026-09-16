@@ -1,5 +1,3 @@
-"""Controlled LightGBM comparison with and without disappointment trajectories."""
-
 from __future__ import annotations
 
 import argparse
